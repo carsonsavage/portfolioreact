@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name":"Carson Savage",
+    "occupation":"Account Manager",
+    "description":"Full stack developer who can grab client’s attention with clean, simple, and stunning web content.",
+    "image":"profilepic.jpg",
+    "bio":"Full stack developer who can grab client’s attention with clean, simple, and stunning web content.",
+    "contactmessage":"Contact me ",
+    "email": "carsonesavage@gmail.com",
+    "phone": "904-521-4779",
+    "address":{
+      "street":"3406 Woodhaven Drive",
+      "city":"Nashville",
+      "state":"TN",
+      "zip": "37204"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/thecarsonsavage",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/carson-savage-584992b0/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/carsonsavage",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/carsonsavage",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Vanderbilt University",
+        "degree":"Full Stack Development Certification",
+        "graduated":"January 2021",
+        "description":"A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node Js, MySQL, MongoDB & ReactJS."
+      },
+      {
+        "school":"Florida State University",
+        "degree":"Communications",
+        "graduated":"August 2013 - January 2015",
+        "description":"Pursued a degree in the field of communications."
+      }
+    ],
+    "work":[
+      {
+        "company":"Dell Technologies",
+        "title":"Account Manager",
+        "years":"October 2019 - Present",
+        "description":"Drove revenue & market share within South Florida in hybrid cloud, data center, & client end user devices, while developing long-term strategic relationships."
+      },
+      {
+        "company":"AT&T",
+        "title":"Sales Consultant",
+        "years":"May 2017 - October 2019",
+        "description":"Established personalized approaches to each customer interaction, offering an integrated solution. Consistently among the top sales representatives at multiple locations."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Node",
+        "level":"40%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Congo",
+        "category":"Amazon redesigned",
+        "image":"congo.png",
+        "url":"https://github.com/DaySloth/Project3"
+      },
+      {
+        "title":"Sound Finder",
+        "category":"Discover new artists and info.",
+        "image":"soundfinder.png",
+        "url":"https://arrow913.github.io/soundfinder/"
+      },
+      {
+        "title":"UniverCITY",
+        "category":"Reviews of your local college city.",
+        "image":"univercity.png",
+        "url":"https://stark-beyond-63897.herokuapp.com/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resumewebsite.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Weather Dashboard",
+        "category":"Search current and other location's weather stats.",
+        "image":"weatherdashboard.png",
+        "url":"https://carsonsavage.github.io/weather-dashboard"
+      },
+      {
+        "title":"Portfolio",
+        "category":"Portfolio built with HTML, JS, CSS",
+        "image":"portfolio.png",
+        "url":"https://carsonsavage.github.io/portfolio-updated/portfolio.html"
+      }
+    ]
+  }
+}
